@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="openbrowsertestname" duration-ms="13667" started-at="2021-04-11T02:23:34 PDT" finished-at="2021-04-11T02:23:48 PDT">
+    <groups>
+    </groups>
+    <test name="openbrowsertest" duration-ms="13667" started-at="2021-04-11T02:23:34 PDT" finished-at="2021-04-11T02:23:48 PDT">
+      <class name="etsyopenbrowser.openbrowser">
+        <test-method status="PASS" signature="driverbrowser()[pri:0, instance:etsyopenbrowser.openbrowser@72b6cbcc]" name="driverbrowser" is-config="true" duration-ms="1798" started-at="2021-04-11T02:23:34 PDT" finished-at="2021-04-11T02:23:36 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverbrowser -->
+        <test-method status="PASS" signature="openbrowseretsy()[pri:0, instance:etsyopenbrowser.openbrowser@72b6cbcc]" name="openbrowseretsy" duration-ms="7128" started-at="2021-04-11T02:23:36 PDT" finished-at="2021-04-11T02:23:43 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowseretsy -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:etsyopenbrowser.openbrowser@72b6cbcc]" name="afterClass" is-config="true" duration-ms="4711" started-at="2021-04-11T02:23:43 PDT" finished-at="2021-04-11T02:23:48 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- etsyopenbrowser.openbrowser -->
+    </test> <!-- openbrowsertest -->
+  </suite> <!-- openbrowsertestname -->
+</testng-results>

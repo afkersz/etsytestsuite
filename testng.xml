@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+  
+<suite name="openbrowsertestname" verbose="1" >
+  <test name="openbrowsertest" >
+    <classes>
+       <class name="etsyopenbrowser.openbrowser" />
+    </classes>
+  </test>
+ 
+</suite>
